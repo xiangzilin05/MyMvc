@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':samples:simple-mvp:app', ':library:android-mvc', ':library:android-mvc-core', ':samples:simple-mvp:core', ':library:poke'

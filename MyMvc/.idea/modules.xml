@@ -3,7 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyMvc.iml" filepath="$PROJECT_DIR$/MyMvc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/MyMvc-app.iml" filepath="$PROJECT_DIR$/app/MyMvc-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/android-mvc/android-mvc.iml" filepath="$PROJECT_DIR$/library/android-mvc/android-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/android-mvc-core/android-mvc-core.iml" filepath="$PROJECT_DIR$/library/android-mvc-core/android-mvc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/simple-mvp/core/core.iml" filepath="$PROJECT_DIR$/samples/simple-mvp/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/poke/poke.iml" filepath="$PROJECT_DIR$/library/poke/poke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/samples.iml" filepath="$PROJECT_DIR$/samples/samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/simple-mvp/simple-mvp.iml" filepath="$PROJECT_DIR$/samples/simple-mvp/simple-mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/simple-mvp/app/simple-mvp-app.iml" filepath="$PROJECT_DIR$/samples/simple-mvp/app/simple-mvp-app.iml" />
     </modules>
   </component>
 </project>
